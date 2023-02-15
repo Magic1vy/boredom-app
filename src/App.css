@@ -7,6 +7,8 @@
   color: white;
   font-family: 'Gentium Book Plus', serif;
   text-shadow: 2px 2px 9px black, 0 0 1em white; 
+  padding: 7px;
+  border-radius: 8px;
 }
 .picture {
   object-fit: cover;
